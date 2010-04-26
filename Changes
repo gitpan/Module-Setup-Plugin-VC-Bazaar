@@ -1,4 +1,8 @@
 Revision history for Perl extension Module::Setup::Plugin::VC::Bazaar
 
-0.01    Mon Apr 26 18:09:38 2010
+0.02		2010-04-27
+				- add inc/* into MANIFEST
+				- add t/vc_bazaar.t
+
+0.01    2010-04-26
         - original version
