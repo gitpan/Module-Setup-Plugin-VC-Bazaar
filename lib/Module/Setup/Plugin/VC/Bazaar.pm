@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use base 'Module::Setup::Plugin';
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 # this code is variation of Module::Setup::Plugin::VC::Git for VC::Bazaar. thx.
 
 sub register
